@@ -4,90 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/BankApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/IDFCAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/Paytm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcreteLegacyPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URLBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URLTelescope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example2/URLBuild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChicoryAddon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/BookFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/ConcreteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Flipkart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/InvoiceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/OrderPlaced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/WareHouseManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/IntelligentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/StudentRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/ShapeRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Paypal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD3/TicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/EncapIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/Example2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/Example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="commit on 12-04-24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,25 +32,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.TicTacToe.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sujay/Documents/GitDemo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Scaler/Design Patterns/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToe.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujay/Documents/GitDemo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Scaler/Design Patterns/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -173,10 +90,23 @@
       <workItem from="1711478290607" duration="374000" />
       <workItem from="1712421405664" duration="51000" />
     </task>
+    <task id="LOCAL-00001" summary="commit on 12-04-24">
+      <option name="closed" value="true" />
+      <created>1712924419912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712924419912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit on 12-04-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit on 12-04-24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
