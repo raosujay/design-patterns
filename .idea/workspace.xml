@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/BankApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/IDFCAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/Paytm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcreteLegacyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URLBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example1/URLTelescope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Example2/URLBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChicoryAddon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/BookFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/ConcreteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FlyWeight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/InvoiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/OrderPlaced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/WareHouseManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/IntelligentStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example1/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/ShapeRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeAndRegistry/Example2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD3/TicTacToe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Basics/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/EncapIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/Example2/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Yt/Encapsulation/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2c7rDlAf1thygZxp0nS1IKhyyKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.TicTacToe.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sujay/Documents/GitDemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Scaler/Design Patterns/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="" />
+      <created>1707473342081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707473342081</updated>
+      <workItem from="1707473343138" duration="87000" />
+      <workItem from="1707473445683" duration="781000" />
+      <workItem from="1707474231843" duration="2889000" />
+      <workItem from="1707477681943" duration="338000" />
+      <workItem from="1707554463604" duration="2365000" />
+      <workItem from="1707670453025" duration="397000" />
+      <workItem from="1707735080550" duration="3149000" />
+      <workItem from="1707757934022" duration="7777000" />
+      <workItem from="1707822520958" duration="2765000" />
+      <workItem from="1707840975162" duration="228000" />
+      <workItem from="1707844556771" duration="584000" />
+      <workItem from="1708018864700" duration="487000" />
+      <workItem from="1708019485610" duration="92000" />
+      <workItem from="1708086188694" duration="254000" />
+      <workItem from="1708086588149" duration="2781000" />
+      <workItem from="1708101877034" duration="4361000" />
+      <workItem from="1708188682194" duration="1253000" />
+      <workItem from="1708238335272" duration="5093000" />
+      <workItem from="1708335213380" duration="5622000" />
+      <workItem from="1708410291649" duration="1599000" />
+      <workItem from="1708427026542" duration="1055000" />
+      <workItem from="1708684370513" duration="963000" />
+      <workItem from="1709293333821" duration="658000" />
+      <workItem from="1709636061357" duration="4658000" />
+      <workItem from="1709651370691" duration="3779000" />
+      <workItem from="1709795171136" duration="239000" />
+      <workItem from="1709808754478" duration="39000" />
+      <workItem from="1710140827442" duration="24000" />
+      <workItem from="1711478290607" duration="374000" />
+      <workItem from="1712421405664" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesignPatterns/Singleton/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
