@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="commit on 12-04-24" />
+    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="deleted solid principles">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;raosujay&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/raosujay/design-patterns.git&quot;,
+    &quot;accountId&quot;: &quot;3598db55-57c2-4c50-ba6f-274a48dd3b2c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,7 +69,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujay/Documents/GitDemo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujay/Documents/Scaler/DesignPatterns-Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -98,7 +126,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712924419912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deleted LLD3">
+      <option name="closed" value="true" />
+      <created>1712924547074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712924547074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deleted solid principles">
+      <option name="closed" value="true" />
+      <created>1712924629480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712924629480</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +150,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit on 12-04-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit on 12-04-24" />
+    <MESSAGE value="deleted LLD3" />
+    <MESSAGE value="deleted solid principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted solid principles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

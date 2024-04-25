@@ -2,11 +2,12 @@ package DesignPatterns.Factory;
 
 public class Main {
     public static void main(String[] args) {
-        ShapeFactory shapeFactory = new ShapeFactory();
-        Shape shape1 = shapeFactory.getShape("CIRCLE");
-        shape1.draw();
+        ShapeFactory factory = new ShapeFactory();
 
-        Shape shape2 = shapeFactory.getShape("rectAngle");
-        shape2.draw();
+        Shape circle = factory.getShape("CIRCLE");
+        circle.draw();
+
+        Shape square = factory.getShape("Rectangle");
+        square.draw();
     }
 }
