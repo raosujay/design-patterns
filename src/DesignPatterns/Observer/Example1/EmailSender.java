@@ -1,4 +1,4 @@
-package DesignPatterns.Observer;
+package DesignPatterns.Observer.Example1;
 
 public class EmailSender implements OrderPlaced{
 

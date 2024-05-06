@@ -11,7 +11,7 @@ public class DBConnectionV7 {
     public DBConnectionV7() {
 
     }
-    public static synchronized DBConnectionV7 getInstance() {
+    public static DBConnectionV7 getInstance() {
         if(dbc == null) {
             // synchronized (dbc) --> this is also correct
             synchronized (DBConnectionV7.class) {

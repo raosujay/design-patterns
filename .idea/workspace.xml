@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="deleted solid principles">
+    <list default="true" id="3409417c-11e6-4f18-8883-4e3be9ff3b13" name="Changes" comment="updated on 25-04-2024">
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example2/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example2/NewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example2/NewsChannel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example1/HDFCAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/ConcretePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/LegacyPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/Example2/PrinterAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/CoffeeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChicoryAddon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChicoryAddon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/MilkAddon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/SimpleCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/Flipkart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/Flipkart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/InvoiceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/InvoiceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/OrderPlaced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/OrderPlaced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Observer/WareHouseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Example1/WareHouseManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DBConnectionV7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujay/Documents/Scaler/DesignPatterns-Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/LLD2/e893595e19d8-facade-booking&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -142,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712924629480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated on 25-04-2024">
+      <option name="closed" value="true" />
+      <created>1714066247951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714066247951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +161,8 @@
     <MESSAGE value="commit on 12-04-24" />
     <MESSAGE value="deleted LLD3" />
     <MESSAGE value="deleted solid principles" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted solid principles" />
+    <MESSAGE value="updated on 25-04-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated on 25-04-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

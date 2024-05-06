@@ -1,9 +1,12 @@
 package DesignPatterns.Decorator;
 
 public class MilkAddon extends CoffeeDecorator{
+
     public MilkAddon(Coffee decoratedCoffee) {
         super(decoratedCoffee);
     }
+
+    @Override
     public String getIngredients() {
         return super.getIngredients()+ ", Milk";
     }

@@ -9,7 +9,7 @@ public class DBConnectionV5 {
     private String password;
     private int port;
 
-    public DBConnectionV5() {
+    private DBConnectionV5() {
 
     }
     public static DBConnectionV5 getInstance() {

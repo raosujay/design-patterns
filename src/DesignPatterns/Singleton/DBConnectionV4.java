@@ -7,7 +7,7 @@ public class DBConnectionV4 {
     private String password;
     private int port;
 
-    public DBConnectionV4() {
+    private DBConnectionV4() {
 
     }
     public static DBConnectionV4 getInstance() {

@@ -1,4 +1,4 @@
-package DesignPatterns.Observer;
+package DesignPatterns.Observer.Example1;
 
 public class WareHouseManagement implements OrderPlaced{
     public WareHouseManagement() {
