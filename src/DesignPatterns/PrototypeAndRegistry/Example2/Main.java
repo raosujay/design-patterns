@@ -9,9 +9,12 @@ public class Main {
         // Create new shapes by cloning prototypes
         Shape newCircle = ShapeRegistry.getShape("circle").clone();
         Shape newSquare = ShapeRegistry.getShape("square").clone();
+        // Shape noShape = ShapeRegistry.getShape(null).clone();
+        // throw error : IllegalArgumentException: Shape not found: null
 
         System.out.println("newCircle = " + newCircle);
         System.out.println("newSquare = " + newSquare);
+        // System.out.println("newSquare = " + noShape);
 
         // Now newCircle and newSquare are independent objects with copied properties
     }

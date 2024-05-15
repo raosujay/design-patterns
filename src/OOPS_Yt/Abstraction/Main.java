@@ -6,7 +6,7 @@ public class Main {
         //Car c1 = new Car();
         //c1.start();
 
-        //here car is a concept and from this concept we have create actual objects Audi and BMW so feom here
+        //here car is a concept and from this concept we have create actual objects Audi and BMW so from here
         //we can create objects and call it
         Audi a1 = new Audi();
         a1.start();

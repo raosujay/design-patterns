@@ -12,6 +12,7 @@ public class ShapeRegistry {
 
     public static Shape getShape(String name) {
         Shape prototype = prototypes.get(name);
+        // System.out.println("prototype: " + prototype);
         if (prototype == null) {
             throw new IllegalArgumentException("Shape not found: " + name);
         }

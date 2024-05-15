@@ -7,8 +7,10 @@ abstract class Car {
 //    void start() {
 //        System.out.println("Car is Starting");
 //    }
-    //if we make start as abstract, then the method will not have a body, or it is not allowed in java.
+//    if we make start as abstract, then the method will not have a body, or it is not allowed in java.
+
     abstract void start();
+
     //in this abstract class, true abstraction of the following methods is not possible, so we prefer interfaces.
     void breaks() {
         System.out.println("Car is applying break");
